@@ -2,4 +2,16 @@
 
 ![Welcome](https://github.com/yoansj/MUL_my_rpg/blob/master/pictures/logo.png)
 
-** Welcome to the Pokemon Fusions repository !
+**Welcome to the Pokemon Fusions repository !
+**Follow all the steps below if you want to play the game
+
+## Installation
+* This game was made using the CSFML library, it won't compile without it
+[(How to install the library)](https://www.sfml-dev.org/download/csfml/index-fr.php)
+* Clone the repository
+* Go to the root of the repository
+```bash
+make re
+./my_rpg
+```
+## How to play
