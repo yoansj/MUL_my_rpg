@@ -5,6 +5,10 @@
 **Welcome to the Pokemon Fusions repository !
 **Follow all the steps below if you want to play the game
 
+ ### For Epitech Students
+* Do not copy this project or even part of the code
+* It would be stupid to get a -42 for one of the biggest project of the year
+
 ## Installation
 * This game was made using the CSFML library, it won't compile without it
 [(How to install the library)](https://www.sfml-dev.org/download/csfml/index-fr.php)
@@ -73,9 +77,5 @@ In game it will look like this
  * Matthieu Kozicki -> Menus, Inventory, Options
  * Yoan Saint Juste -> Combat, Pokemons, Particles
  * Vincent Maillot -> Collisions & Map, Movement, Sprites
+ *Grade : 209
  
- **Grade : 209
- 
- ### For Epitech Students
- Be careful if you copy this projects or part of the code for your project
- you can get a -42 Easily
