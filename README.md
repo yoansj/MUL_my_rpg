@@ -2,8 +2,8 @@
 
 ![Welcome](https://github.com/yoansj/MUL_my_rpg/blob/master/pictures/logo.png)
 
-**Welcome to the Pokemon Fusions repository !
-**Follow all the steps below if you want to play the game
+* Welcome to the Pokemon Fusions repository !
+* Follow all the steps below if you want to play the game
 
  ### For Epitech Students
 * Do not copy this project or even part of the code
