@@ -15,3 +15,10 @@ make re
 ./my_rpg
 ```
 ## How to play
+
+* Hold your click on the ? button on the menu then you should see the image below
+![Image](https://github.com/yoansj/MUL_my_rpg/blob/master/gitimages/how_to_play.png)
+* Click on the options button if you want to change de keybindings or lower the sound
+![Image](https://github.com/yoansj/MUL_my_rpg/blob/master/gitimages/options.png)
+
+## Combat
