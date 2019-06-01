@@ -46,3 +46,36 @@ Here is the example file for a Pokemon
 [END]
 ```
 * The ```[START]``` and ```[END]``` lines are mandatory ! Without them the game won't read your file !
+
+For instance the Pokemon Pikaflex will give this file
+```
+[START]
+Pikaflex
+Ultra FLEX
+pictures/Poke/Pikaflex.bmp
+pictures/Poke/Pikaflex.bmp
+3
+80
+25
+2
+900
+[END]
+```
+In game it will look like this
+![Image](https://github.com/yoansj/MUL_my_rpg/blob/master/gitimages/pikaflex.png)
+
+ * Be careful with the paths entering wrong ones will create errors
+ * The ```[PATH_TO_ATTACK]``` line isn't used by the game but you still have to enter a valid one
+ * You can balance your game how you want by modifying, deleting or event creating new Pokemons !
+ * If you want to add consistent Pokemons use the [Pokemon Fusion generator](https://pokemon.alexonsager.net/fr)
+ 
+ ## Authors
+ * Matthieu Kozicki -> Menus, Inventory, Options
+ * Yoan Saint Juste -> Combat, Pokemons, Particles
+ * Vincent Maillot -> Collisions & Map, Movement, Sprites
+ 
+ **Grade : 209
+ 
+ ### For Epitech Students
+ Be careful if you copy this projects or part of the code for your project
+ you can get a -42 Easily
