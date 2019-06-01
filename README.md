@@ -77,5 +77,5 @@ In game it will look like this
  * Matthieu Kozicki -> Menus, Inventory, Options
  * Yoan Saint Juste -> Combat, Pokemons, Particles
  * Vincent Maillot -> Collisions & Map, Movement, Sprites
- *Grade : 209
+ * Grade : 209
  
